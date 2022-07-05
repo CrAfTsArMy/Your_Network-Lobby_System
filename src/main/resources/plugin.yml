@@ -1,0 +1,6 @@
+name: YouTube_Netzwerk_Lobby_System
+version: '${version}'
+main: de.craftsblock.Netzwerk
+api-version: 1.16
+authors: [ CraftsBlock ]
+website: https://craftsblock.de
